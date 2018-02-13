@@ -1,0 +1,6 @@
+-------- Log Entry --------
+Mon Feb 12 2018 23:14:11 GMT-0500 (EST)
+User used getSong()
+-------- Log Entry --------
+Mon Feb 12 2018 23:20:45 GMT-0500 (EST)
+User used getSong()
