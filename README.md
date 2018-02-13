@@ -12,18 +12,18 @@ terminal:
 
 node liri.js help
 
-node liri.js <ACTION> <ARGUMENTS>
+node liri.js [ACTION] [ARGUMENTS]
 
 node liri.js my-tweets
-node liri.js spotify-this-song <ARGUMENTS>
-node liri.js movie-this <ARGUMENTS>
+node liri.js spotify-this-song [ARGUMENTS]
+node liri.js movie-this [ARGUMENTS]
 node liri.js do-what-it-says
 
 IMPORTANT ---- If you pass in an any arguments that have multple words (eg. State of Love and Trust or The
 Matrix) surround them with quotations (eg. "State of Love and Trust" or "The
 Matrix"). Otherwise only the first word will be searched (eg. State or The)
 
-The <ACTION> is what you need LIRI to do, and the <ARGUMENTS> are the parameters that you need to 
+The [ACTION] is what you need LIRI to do, and the [ARGUMENTS] are the parameters that you need to 
 pass to LIRI to get what you are looking for.
 
 Examples:
